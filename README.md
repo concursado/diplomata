@@ -1,5 +1,6 @@
 # diplomata
-   <li class="sidebar-topic ">
+<ul class="sidebar-topics list-style-none position-relative">
+  <li class="sidebar-topic ">
               <a href="/pt/github/using-git/getting-started-with-git-and-github" class="pl-4 pr-5 py-2">Indrodução ao Git e GitHub</a>
               <ul class="sidebar-articles my-2">
                 
