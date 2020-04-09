@@ -1,8 +1,8 @@
 ## História Mundial
 
 Teste 1
-<p><a href="#" style="text-decoration:nonecolor: #000000" title="Certo">Teste testando o texto para ver se fica.</a></p>
-<p><a href="#" style="text-decoration:nonecolor: #000000" title="Errado">Teste testando o texto para ver se fica.</a></p>
+<p><a href="#" style="text-decoration:none; color: #000000" title="Certo">Teste testando o texto para ver se fica.</a></p>
+<p><a href="#" style="text-decoration:none; color: #000000" title="Errado">Teste testando o texto para ver se fica.</a></p>
   
 
 ### História do Brasil
