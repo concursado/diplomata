@@ -8,8 +8,14 @@
 [Direito Internacional](https://concursado.github.io/diplomata/#geografia)
 
 ### História Mundial
-<br><a style="text-decoration:none" title="Certo">Teste testando o texto para ver se fica.</a>
-<br><a style="text-decoration:none;color: #000000" title="Errado">Teste 2 do texto para ver se aparece o texto ao cl.</a>
+CEBRASPE (CESPE) - Diplomata (Terceiro Secretário)/2012
+A história mundial contemporânea, iniciada no último terço do século XVIII, apresenta-se como uma sucessão de sistemas mundiais intercalados por fases de transição e configuração de novas lideranças. Assim, de 1776 (ano da independência dos EUA e da publicação de A Riqueza das Nações, de Adam Smith) a 1890, a Pax Britânica, embasada na Revolução Industrial e regulada pelo liberalismo, deu início ao mundo dominado pelas potências anglo-saxônicas.
+ 
+Paulo G. Fagundes Visentini e Analúcia Danilevicz Pereira. História do mundo contemporâneo. Petrópolis: Vozes, 2008, p. 10 (com adaptações).
+
+Tendo o texto acima como referência inicial e considerando aspectos da história econômica mundial, julgue (C ou E) o item seguinte.
+
+Em A Riqueza das Nações, Adam Smith critica o mercantilismo, alinhando-se, nesse aspecto, com os fisiocratas franceses, mas deles se afastando ao sustentar que ao Estado <a href="#" title="Errado">compete conduzir e proteger a economia nacional</a> na disputa por mercados com outros países.
 
 
 ### História do Brasil
