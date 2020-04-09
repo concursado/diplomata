@@ -1,5 +1,5 @@
 ## PROVAS 
-## <p><a href="https://concursado.github.io/diplomata/#economia">Economia</a></p>
+## [Economia](https://concursado.github.io/diplomata/#economia)
 
 ### História Mundial
 <br><a style="text-decoration:none" title="Certo">Teste testando o texto para ver se fica.</a>
