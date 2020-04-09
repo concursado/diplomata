@@ -2,8 +2,7 @@
 
 Teste 1
 
-<p><a href="#" style="text-decoration:none" title="Certo">Teste testando o texto para ver se fica.</a></p>
-<p><a href="#" style="text-decoration:none;color: #000000" title="Errado">Teste 2 do texto para ver se aparece o texto ao cl</p>
+
   
 
 ### Markdown
