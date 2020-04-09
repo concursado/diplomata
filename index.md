@@ -15,7 +15,7 @@ Paulo G. Fagundes Visentini e Analúcia Danilevicz Pereira. História do mundo c
 
 Tendo o texto acima como referência inicial e considerando aspectos da história econômica mundial, julgue (C ou E) o item seguinte.
 
-Em A Riqueza das Nações, Adam Smith critica o mercantilismo, alinhando-se, nesse aspecto, com os fisiocratas franceses, mas deles se afastando ao sustentar que ao Estado <a href="#" title="Errado">compete conduzir e proteger a economia nacional</a> na disputa por mercados com outros países.
+Em A Riqueza das Nações, Adam Smith critica o mercantilismo, alinhando-se, nesse aspecto, com os fisiocratas franceses, mas deles se afastando ao sustentar que ao Estado <a href="#" style="color: #000000" title="Errado">compete conduzir e proteger a economia nacional</a> na disputa por mercados com outros países.
 
 
 ### História do Brasil
