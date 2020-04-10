@@ -15,9 +15,7 @@
  
  
   
-#conteudo p {
-    display: none;
-}
+<p><a href="#" title="Certo"><input name="Certo" type="button" value="Errado" /></a></p>
 
 
 
