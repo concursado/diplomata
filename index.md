@@ -15,7 +15,7 @@
  
  
   
-<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png" target="_self"><input type="button" value="VERJA" /></a></p>
+<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png" target="_parent"><input type="button" value="VERJA" /></a></p>
 
 
 
