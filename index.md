@@ -15,7 +15,7 @@
  
  
 
-<p><input name="CERTO" type="reset" value="CERTO" /></p>
+<p><output name="CERTO" type="reset" value="CERTO" /></p>
 
 <p><textarea name="Certo"></textarea></p>
 
