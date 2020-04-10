@@ -15,7 +15,7 @@
  
  
   
-<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png"><input type="button" value="VER" /></a></p>
+<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;"><input type="button" value="VER" /></a></p>
 
 
 
