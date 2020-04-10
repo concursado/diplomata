@@ -15,7 +15,7 @@
  
  
 
-<p><input name="CERTO" type="submit" value="CERTO" /></p>
+<p><input name="CERTO" type="RESET" value="Certo" /></p>
 
 
 
