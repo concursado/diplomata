@@ -19,10 +19,7 @@
     Clique-me!
   </button>
 
-  <button class = "b2" style = "display: none;">
-    Outro botão!
-  </button>
-</div>
+  
 
 
 
