@@ -11,11 +11,11 @@
 
 ### HISTÓRIA MUNDIAL
 
- Não podemos comparar o mundo do final do breve século XX ao mundo de seu início, em termos de contabilidade histórica de mais e menos. Tratava-se de um mundo qualitativamente diferente em pelo menos três aspectos. Primeiro, ele tinha deixado de ser eurocêntrico. Trouxera o declínio e a queda da Europa, ainda centro inquestionado de poder, riqueza, intelecto e civilização ocidental quando o século começou. A segunda transformação foi mais significativa. Entre 1914 e o início da década de 1990, o globo foi muito mais uma unidade operacional única, como não era e não poderia ter sido em 1914. Na verdade, para muitos propósitos, notadamente em questões econômicas, o globo é agora unidade operacional básica, e unidades mais velhas como as economias nacionais, definidas pelas políticas de Estados territoriais, estão reduzidas a complicações das atividades transnacionais. A terceira transformação, em certos aspectos a mais perturbadora, é a desintegração de velhos padrões de relacionamento social humano, e com ela, aliás, a quebra dos elos entre as gerações, quer dizer, entre passado e presente. Eric Hobsbawm. <a style="font-size:5px">Era dos extremos: o breve século XX (1914–1991). São Paulo: Companhia das Letras, 1995, p. 23-4 (com adaptações)</a>
- <br><font size="2">Esse é uma fonte de tamanho 5</font></br>
- <p style="font-size: 2px">Esta fonte tem tamanho 12px</p>
+ Não podemos comparar o mundo do final do breve século XX ao mundo de seu início, em termos de contabilidade histórica de mais e menos. Tratava-se de um mundo qualitativamente diferente em pelo menos três aspectos. Primeiro, ele tinha deixado de ser eurocêntrico. Trouxera o declínio e a queda da Europa, ainda centro inquestionado de poder, riqueza, intelecto e civilização ocidental quando o século começou. A segunda transformação foi mais significativa. Entre 1914 e o início da década de 1990, o globo foi muito mais uma unidade operacional única, como não era e não poderia ter sido em 1914. Na verdade, para muitos propósitos, notadamente em questões econômicas, o globo é agora unidade operacional básica, e unidades mais velhas como as economias nacionais, definidas pelas políticas de Estados territoriais, estão reduzidas a complicações das atividades transnacionais. A terceira transformação, em certos aspectos a mais perturbadora, é a desintegração de velhos padrões de relacionamento social humano, e com ela, aliás, a quebra dos elos entre as gerações, quer dizer, entre passado e presente. <a style="font-size:5px"> Eric Hobsbawm. Era dos extremos: o breve século XX (1914–1991). São Paulo: Companhia das Letras, 1995, p. 23-4 (com adaptações)</a>
+ 
+ 
 
-<p><input name="CERTO" type="button" value="Certo" /></p>
+<p><input name="CERTO" type="submit" value="CERTO" /></p>
 
 
 
