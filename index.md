@@ -16,8 +16,11 @@
  
 <div>
   <button class = "b1">
-    Clique-me!
+    Clique-me! value="Errado"
   </button>
+ 
+ 
+ <p><input name="Certo" type="button" value="Errado" /></p>
 
   
 
