@@ -17,7 +17,7 @@
   
 <p><a href="#" title="CERTO"><input name="CERTO" type="button" value="VER" /></a></p>
 
-<p><a href="#" title="VER">#</a></p>
+<p><a href="CERTO" title="VER">#</a></p>
 
 
 
