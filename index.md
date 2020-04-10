@@ -16,15 +16,7 @@
  
 <script>
 
-if(confirm('Tem Certeza?')) {
-
-alert('Tem certeza');
-
-} else {
-
-alert('Não tem certeza');
-
-}
+alert('Teste!!!');
 
 </script>
 
