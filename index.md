@@ -14,8 +14,8 @@
  Não podemos comparar o mundo do final do breve século XX ao mundo de seu início, em termos de contabilidade histórica de mais e menos. Tratava-se de um mundo qualitativamente diferente em pelo menos três aspectos. Primeiro, ele tinha deixado de ser eurocêntrico. Trouxera o declínio e a queda da Europa, ainda centro inquestionado de poder, riqueza, intelecto e civilização ocidental quando o século começou. A segunda transformação foi mais significativa. Entre 1914 e o início da década de 1990, o globo foi muito mais uma unidade operacional única, como não era e não poderia ter sido em 1914. Na verdade, para muitos propósitos, notadamente em questões econômicas, o globo é agora unidade operacional básica, e unidades mais velhas como as economias nacionais, definidas pelas políticas de Estados territoriais, estão reduzidas a complicações das atividades transnacionais. A terceira transformação, em certos aspectos a mais perturbadora, é a desintegração de velhos padrões de relacionamento social humano, e com ela, aliás, a quebra dos elos entre as gerações, quer dizer, entre passado e presente. <a style="font-size:9px"> Eric Hobsbawm. Era dos extremos: o breve século XX (1914–1991). São Paulo: Companhia das Letras, 1995, p. 23-4 (com adaptações)</a>
  
  
-  
-<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png" target="_parent"><input type="button" value="VERJA" /></a></p>
+<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png" onclick="window.open(this.href, '', 'resizable=no,status=yes,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;"><input type="button" value="VERJA" /></a></p>
+
 
 
 
