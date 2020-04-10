@@ -15,9 +15,7 @@
  
 
 
-<p><a href="<dialog open>
-  <p>Olá para todos!</p>
-</dialog>" title="certo"><input type="button" value="vejando" /></a></p>
+<input type="text" name="dia" size="2" maxlength="3" value="CERTO"> 
 
 
 
