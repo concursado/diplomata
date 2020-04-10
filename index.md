@@ -15,7 +15,8 @@
  
  
   
-<p><a title="Certo"><input name="Certo" type="button" value="Errado" /></a></p>
+<p><a title="Certo"><input name="Certo" type="submit" value="Errado" /></a></p>
+
 
 
 
