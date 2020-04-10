@@ -15,9 +15,8 @@
  
  
   
-<p><a href="#" title="CERTO"><input name="CERTO" type="button" value="VER" /></a></p>
+<p><a href="https://clevert.com.br/lib/ckeditor/plugins/smiley/images/thumbs_up.png"><input type="button" value="VER" /></a></p>
 
-<p><a href="CERTO" title="VER">#</a></p>
 
 
 
