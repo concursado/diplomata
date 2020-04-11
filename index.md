@@ -8,7 +8,7 @@
 </div><div><div class="spoiler" style="display: none;">
   Aqui o conteúdo que queremos ocultar
  </div></div>
- 
+ <div class="spoiler" style="display: none;">
  
  <div class="pre-spoiler">
 
