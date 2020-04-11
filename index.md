@@ -2,6 +2,19 @@
 
 
 
+<div class="pre-spoiler">
+
+    <input id="xs" value="Leia Mais" style="margin-left: 50px; padding: 0px; width: 80px; " onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';this.innerText = ''; this.value = 'Ocultar'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Leia Mais';}" type="button"> </div>
+
+    <div>
+
+    <div class="spoiler" style="display: none;">
+
+    Aqui você coloca o texto que quer esconder e que só vai aparecer quando clicarem no botão.
+
+    </div>
+
+    </div>
 
 
 <div class="divspoiler"> 
