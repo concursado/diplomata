@@ -16,7 +16,6 @@
 
 <div class="divspoiler">
 <input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes[0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style.display = 'none'; this.value = 'Mostrar'; }" />
- <style="margin-left: 50px; padding: 0px; width: 80px>
 </div><div><div class="spoiler" style="display: none;">
 Aqui o conteúdo que queremos ocultar
 </div></div>
