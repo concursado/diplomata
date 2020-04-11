@@ -4,7 +4,7 @@ TESTE
 ### TESTE
 TESTE
 
-<div class="divspoiler"> <div class="pre-spoiler">
+<div class="pre-spoiler"> 
 
  
 <input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes
@@ -18,8 +18,7 @@ this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style
 Aqui o conteúdo que queremos ocultar
 </div></div>
 
-  
-<body>
+
 ### TESTE
 You can use the [editor on GitHub](https://github.com/concursado/diplomata/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
