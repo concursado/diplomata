@@ -13,7 +13,7 @@
 
 ### HISTÓRIA MUNDIAL
 
-CEBRASPE 2003. Não podemos comparar o mundo do final do breve século XX ao mundo de seu início, em termos de contabilidade histórica de mais e menos. Tratava-se de um mundo qualitativamente diferente em pelo menos três aspectos. Primeiro, ele tinha deixado de ser eurocêntrico. Trouxera o declínio e a queda da Europa, ainda centro inquestionado de poder, riqueza, intelecto e civilização ocidental quando o século começou. A segunda transformação foi mais significativa. Entre 1914 e o início da década de 1990, o globo foi muito mais uma unidade operacional única, como não era e não poderia ter sido em 1914. Na verdade, para muitos propósitos, notadamente em questões econômicas, o globo é agora unidade operacional básica, e unidades mais velhas como as economias nacionais, definidas pelas políticas de Estados territoriais, estão reduzidas a complicações das atividades transnacionais. A terceira transformação, em certos aspectos a mais perturbadora, é a desintegração de velhos padrões de relacionamento social humano, e com ela, aliás, a quebra dos elos entre as gerações, quer dizer, entre passado e presente. <a style="font-size:5px">Eric Hobsbawm. Era dos extremos: o breve século XX (1914–1991). São Paulo: Companhia das Letras, 1995, p. 23-4 (com adaptações).  </a> 
+CEBRASPE 2003. Não podemos comparar o mundo do final do breve século XX ao mundo de seu início, em termos de contabilidade histórica de mais e menos. Tratava-se de um mundo qualitativamente diferente em pelo menos três aspectos. Primeiro, ele tinha deixado de ser eurocêntrico. Trouxera o declínio e a queda da Europa, ainda centro inquestionado de poder, riqueza, intelecto e civilização ocidental quando o século começou. A segunda transformação foi mais significativa. Entre 1914 e o início da década de 1990, o globo foi muito mais uma unidade operacional única, como não era e não poderia ter sido em 1914. Na verdade, para muitos propósitos, notadamente em questões econômicas, o globo é agora unidade operacional básica, e unidades mais velhas como as economias nacionais, definidas pelas políticas de Estados territoriais, estão reduzidas a complicações das atividades transnacionais. A terceira transformação, em certos aspectos a mais perturbadora, é a desintegração de velhos padrões de relacionamento social humano, e com ela, aliás, a quebra dos elos entre as gerações, quer dizer, entre passado e presente. Eric Hobsbawm. Era dos extremos: o breve século XX (1914–1991). São Paulo: Companhia das Letras, 1995, p. 23-4 (com adaptações).
 
 A partir da análise contida no texto acima, julgue os itens seguintes, relativos ao processo histórico do mundo contemporâneo. 
 
@@ -48,6 +48,15 @@ A contínua incorporação do conhecimento científico ao sistema produtivo cont
  <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
  <div style="display: none;">
 CERTO.
+  Era de Ouro (1945-1973)
+  - Segundo Eric Hobsbawm "Era de Ouro do Capitalismo" ou "Os anos Dourados" 
+  - "Anos Dourados", "Boom econômico pós-guerra"
+  - Internacionalização da hegemonia americana
+  - Reconstrução da Europa e do Japão, período da Guerra Fria, alta produção dos países desenvolvidos, Descolonização
+  - Doutrina Truman (empréstimos concedidos em dólares), Plano Marshall (empréstimos que a Europa recebia) e Plano Dodge (ajuda para o Japão)
+  - Países capitalistas tiveram um crescimento econômico muito grande, e que só foi percebido quando já estava acabando e o mundo entrava em uma nova crise. 
+   - Terminou com o colapso dos acordos de Bretton Woods em 1971, a crise do petróleo de 1973, e o “crash” da bolsa em 1973-1974, o que levou à recessão da década de 1970.
+  - São os 30 anos do pós-guerra, que constituíram uma era única na História Contemporânea, século XX.
  <br>
  </div>
  </div>
@@ -264,6 +273,512 @@ CERTO.
  </div>
  </div>
  </div>
+
+CEBRASPE DIPLOMATA 2005. Texto III – questões de 7 a 11. Quando as 5 mil pequenas lâmpadas iluminaram a fachada do Palácio da Eletricidade, por ocasião da inauguração da Exposição Universal de 4 Paris (1900), causando assombro à multidão que assistia ao espetáculo, comprovou-se o triunfo da ciência e a soberania da máquina. A luz vencera o 7 limite da noite e instaurava as 24 horas como o novo tempo da cidade. A arte afastava-se do mundo burguês à procura 10 de nova clientela, capaz de um ato de fruição total. Era preciso tornar-se autêntica e, para isso, ela precisava eliminar dos seus efeitos específicos 13 quaisquer outros que pudessem ter sido tomados por empréstimo. Era necessário tornar-se “autárquica”, “pura”. 16 A busca incessante dessa pureza motivou os artistas do início do século XX, o que resultou na produção de obras que deram corpo a uma notável 19 revolução cultural. P. E. Grinberg e A. A. Luz. Revoluções artístico-culturais no século XX. In: F. C. Teixeira da Silva (coord.). Século sombrio: guerras e revoluções do século XX. Rio de Janeiro: Elsevier, 2004 (com adaptações) 
+
+QUESTÃO 8 Tomando o texto III como referência inicial e considerando o cenário econômico mundial na passagem do século X IX ao século XX, julgue (C ou E) os próximos itens. 
+
+As transformações verificadas no sistema produtivo capitalista, a partir de meados do século XIX, tiveram na substituição do ferro e do carvão pelo aço e p ela eletricidade o ponto de partida para a configuração da moderna industrialização.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+As últimas décadas do século XIX assistiram à disseminação da crença burguesa em um progresso ilimitado, do qual as exposições universais — tal como a citada no texto — eram símbolos poderosos.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A inexistência de crises mais pronunciadas no sistema capitalista, ao longo da segunda metade do século XIX, reforçava o ponto de vista de governos e de grandes empresários no tocante à perenidade do desenvolvimento material que estava em marcha.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Assinada pelo Papa Leão X III em 18 91, a encíclica Rerum Novarum, primeira grande manifestação oficial da Igreja Católica para a elaboração de uma doutrina social-cristã, ao mesmo tempo em que atacava firmemente os excessos da exploração capitalista, expressava sutil apoio às teses socialistas.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 9 Considerando-se os dados estritamente cronológicos, a exposição a que se refere o texto III ocorreu no último ano do século XIX. Tempo das revoluções, c omo é conhecido, o século XI X é também assinalado por grandes representações, a exemplo do industrialismo, do liberalismo, do nacionalismo e do socialismo. Julgue ( C ou E ) os itens a seguir, relativos ao quadro revolucionário de fins do século XVIII e da primeira metade do século XIX. 
+
+A Revolução Francesa, iniciada e m 1789, conheceu longa e complexa travessia em suas etapas. Ao ser concluída, com a era napoleônica, estavam parcial ou totalmente destruídas muitas das bases sobre as quais se assentava o Antigo Regime.<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Historicamente, a independência das 13 colônias inglesas da América do Norte, em 1776, a qual integra o cenário em que se desenrolou a Revolução Francesa, exerceu notória influência nos movimentos de emancipação política das colônias ibéricas no continente americano.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Na Europa, ondas revolucionárias em 1820, 1830 e 1848 demonstram não ter sido tarefa simples o aniquilamento do Antigo Regime, o qual, após o vendaval revolucionário francês, ganhou certo fôlego restauracionista com a queda de Napoleão Bonaparte.<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Pode-se afirmar que o processo revolucionário vivido pela Europa Ocidental apresentava, até 1848, clara simetria entre suas duas frentes — a econômica, representada pela Revolução Industrial, e a política, representada pelas revoluções liberais. A partir de 1848, a unidade se rompeu, e a bandeira do liberalismo burguês assumiu contornos cada vez mais conservadores.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 10 Na segunda metade do século XIX, o imperialismo — inclusive por sua vertente neocolonialista — a testa o grau de desenvolvimento do capitalismo e sua incessante busca de conquista dos mercados mundiais. A respeito desse processo de expansão, julgue (C ou E) os itens seguintes. 
+
+O surgimento de uma Alemanha unificada, a partir de 1870, adicionou elemento novo e potencialmente explosivo na acirrada competição por colônias e mercados encetada pelas potências industrializadas. Esse novo elemento está na raiz de sucessivas crises que, em princípios do século XX, desnudaram a precariedade do equilíbrio de poder e do quadro de paz existente na Europa.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A Conferência de Berlim, em fins d a década de 80, tratou da partilha da África entre os grandes Estados europeus. Digna de destaque foi a preocupação registrada no documento oficial do encontro, qual seja, a de se respeitar a identidade étnico-cultural dos povos africanos no momento da definição das fronteiras coloniais.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A fragilidade do Estado chinês, imerso em profunda crise interna, facilitou a presença, nesse país, do imperialismo ocidental na segunda metade do século XIX. Em pouco tempo, boa parte do litoral da China passou ao controle das potências ocidentais e, graças a tratados desiguais, a elas foi conferido o direito de extraterritorialidade.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Foge aos padrões tradicionais a forma pela qual o Japão reagiu às pressões externas para que abrisse seu mercado ao comércio internacional. A Era Meiji, iniciada nesse contexto de expansão do capitalismo, significou a decisão de se proceder à modernização do país, inserindo-o na nova economia mundial, sem que se abdicasse da soberania.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 11 Com o auxílio do texto III, julgue (C ou E) os itens seguintes, considerando o século XIX como o laboratório em que foi gerado o s éculo X X, a despeito das singularidades de cada um dos períodos. 
+
+O Romantismo, espécie de escoadouro de aspirações e perplexidades típicas do século XIX, encontrou, nas primeiras décadas do século XX, o espaço ideal para se expandir, particularmente, na literatura, na música erudita e nas artes plásticas.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Apesar de seu reduzido impacto científico, a teoria da relatividade, exposta pelo físico alemão Albert Einstein em 1905, repercutiu intensamente no campo da produção artística, estimulando o surgimento de obras sintonizadas com a concepção de um espaço estático e inflexível, de que decorreram trabalhos essencialmente subordinados a o formalismo acadêmico, ao conformismo burguês e à utilização de cores suaves.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Nos anos 20 do século passado, o cinema mudo alcançou seu apogeu. Hollywood despontou com uma produção marcante, em que se destacaram a comédia — aponte-se o sucesso de Charles Chaplin — e a s chamadas superproduções, que tiveram em Cecil B. de Mille sua mais fulgurante estrela.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Provavelmente em razão da crise que sobreveio à Primeira Guerra Mundial, os anos 20 do século passado foram marcadamente pobres em produção literária, não se registrando textos que tenham merecido a atenção dos leitores e influeNciado as gerações seguintes.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Texto IV – questões de 13 a 15 1 O período que se seguiu à Grande Guerra pode ser decomposto em três grandes fatias: de 1919 a 1924–28, quando todos os países europeus 4 procuraram liquidar os resquícios deixados pela guerra e voltar às condições econômicas normais, equivale dizer, às condições dominantes em 1914; de 1924–28 7 a 1931–33, com o grande surto de prosperidade, que trazia, no seu bojo, os elementos da crise detonada nos EUA em 1929; de 1932–33 a 1939, quando os 10 governos se empenharam no esforço coletivo para superar a crise, desenvolvendo práticas intervencionistas não adotadas até então. J. J. de Arruda. A crise do capitalismo. D. A. Reis Filho, J. Ferreira, C. Zenha (orgs.). In: O século XX. R io de J aneiro: Civilização Brasileira, 20 00, p. 2 2 (c om adaptações). 
+
+QUESTÃO 13 Não são poucos os historiadores que vêem na Primeira Guerra Mundial (1914-1918) o fim do historicamente longo século XIX. Quer pela complexidade de suas causas, quer por seus efeitos profundos, um dos quais a vitória bolchevique na Rússia, a Grande Guerra assinala o epílogo de uma era e o início propriamente dito do século XX. A esse respeito, julgue (C ou E) os itens seguintes. 
+
+Entre os fatores determinantes para a eclosão do conflito mundial em 1914, podem ser destacados o exacerbado nacionalismo — não raro revestido das cores da xenofobia — e as disputas ditadas pelos interesses imperialistas.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A rápida ascensão da Alemanha no pós-1870 constituiu fator desestabilizante no cenário europeu. Ainda que tenha mantido permanente aliança econômica com a Grã-Bretanha, sua disputa com a França por influência política criou condições propícias à guerra.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A expressão “paz armada” consagrou-se como a melhor caracterização do cenário europeu nos anos imediatamente anteriores a 1914. Nesse contexto, por temerem as conseqüências da guerra, os diversos Estados renunciaram à velha prática da diplomacia secreta visto que esta os amarraria a uma perigosa teia de acordos militares.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Impulsionada pelas circunstâncias da guerra, que explicitaram ainda mais a grave situação interna da Rússia, a Revolução Russa de 1917 significou a primeira grande fissura na unidade capitalista que a Revolução Industrial e as revoluções liberais burguesas haviam começado a edificar desde as últimas décadas do século XVIII.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 14 O curto período entre as duas guerras mundiais do século em XX (1919–1939) testemunhou a crise profunda do modelo econômico e político liberal. No que concerne a esse quadro histórico, julgue (C ou E) os itens seguintes, ainda considerando o texto IV. 
+
+A humilhante derrota militar da Alemanha, que chegou ao fim da Primeira Guerra invadida e ocupada pelas tropas inimigas, determinou a queda do regime monárquico nesse país e a ascensão ao poder das forças socialistas — República de Weimar.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A entrada dos EUA na etapa final do conflito (1917) foi decisiva para selar a derrota dos chamados impérios centrais. Terminada a guerra, esse país viu-se na inovadora condição de grande credor internacional, com excepcionais condições de se transformar em potência mundial.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Sob o ponto de vista político, a crise do Estado liberal que se seguiu à Grande Guerra de 1914 materializou-se, sobretudo, na ascensão de regimes totalitários, dos quais as mais diversas formas de fascismo seriam exemplos exponenciais.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+As práticas intervencionistas, às quais o texto alude, decorreram da necessidade imperiosa de se enfrentar a Grande Depressão que se seguiu à Crise de 1929 e foram implementadas por quase todos os países. A esse respeito, notável exceção se deu nos EUA, onde nem mesmo o New Deal conseguiu arranhar os sólidos princípios liberais, que sempre caracterizaram a economia e as instituições políticas norte-americanas.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 15 O texto IV faz do ano de 1939 — não por acaso, o que assinala o início da Segunda Guerra Mundial (1939–1945) — seu marco cronológico final. A propósito desse conflito, cujo caráter mundial é bem mais acentuado do que o daquele que o antecedeu, julgue (C ou E) os itens subseqüentes. 
+
+Entre os múltiplos fatores que levaram à Segunda Guerra, um dos mais determinantes foi a acentuada desestruturação da economia mundial, que, mal recuperada dos efeitos da Primeira Guerra, sucumbiu ao quadro de profunda depressão advinda do crash financeiro nova-iorquino. 
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Apesar de não-expansionistas, os regimes nazifascistas contribuíram para que a Segunda Guerra Mundial acontecesse ao insistirem nos métodos econômicos intervencionistas e nos maciços investimentos militares.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Nos encontros entre os líderes aliados, na etapa final da Segunda Guerra, traçou-se a estratégia de uma nova ordem internacional, na qual ficaram nítidas a força e a intenção dos vitoriosos de conter o poderio dos integrantes do Eixo.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Apesar de ter participado diretamente do conflito, ao ceder bases aéreas e navais no Nordeste, ao constituir a Força Aérea Brasileira (FAB) e ao enviar para a Itália os contingentes da Força Expedicionária Brasileira (FEB), o Brasil do Estado de Novo getulista passou ao largo dos efeitos democratizantes trazidos pelo término da guerra, com a derrota do totalitarismo nazifascista.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 16 Quando a Segunda Guerra chegou ao fim, a realidade mundial era outra, bem distante da que existia antes de 1939. A aliança entre norte-americanos e soviéticos durante o conflito, vital para a derrota do Eixo nazifascista, desfez-se e foi substituída pela acirrada disputa por zonas de influência em escala planetária. A propósito desse novo quadro mundial, julgue (C ou E) os itens seguintes. 
+
+O Plano Marshall foi uma decisão estratégica tomada pelos EUA, tendo e m vista a recuperação de uma Europa devastada pela guerra. Embora não discriminasse nenhuma área, tendo concedido empréstimos aos países do Leste, Washington evidenciava seu interesse em proteger as economias capitalistas européias de eventual tentação de seguir o modelo socialista soviético.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A Organização das Nações Unidas (ONU), cujo desenho básico fora traçado ainda durante a Segunda Guerra, nasceu para repetir, com pequenas e superficiais alterações, a vitoriosa trajetória da Liga das Nações, organismo surgido no pós-Primeira Guerra por sugestão do presidente norte-americano Woodrow Wilson.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+A vitória de Mao Tsé-tung, depois de longa guerra civil entre comunistas e nacionalistas do Kuomintang, possibilitou a proclamação da República Popular da China, e m 1949. Extensão territorial, gigantismo demográfico e força militar da nova potência comunista asiática foram levados na devida conta pelos EUA para que, de imediato, o regime de Mao fosse reconhecido e seu país tomasse assento no Conselho de Segurança da ONU.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+O colapso da União das Repúblicas Socialistas Soviéticas, ao final da década de 80, deveu-se às contradições internas de um regime incapaz mesmo de admitir a necessidade de reformas que dinamizassem a economia e trouxessem mais transparência às ações políticas.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+CEBRASPE DIPLOMATA 2005. Texto VI – questões de 31 a 38. Os acontecimentos que convulsionaram o país na primeira metade dos anos 60 e que culminaram com os atos de força que depuseram Goulart não podem ser 4 adequadamente compreendidos sem que se leve em conta o processo de transformação experimentado pelo Brasil desde 1930. Com efeito, a Era Vargas 7 (1930-1945) havia iniciado o esforço de modernização nacional que, sob a ditadura do Estado Novo (a partir de 1937), atingira dimensão mais acentuada. Essa 10 modernização foi bastante impulsionada na segunda metade da década de 50: era o desenvolvimentismo dos Anos JK, sintetizado no Plano de Metas e 13 consagrado pelo lema “50 anos em 5”. Nessa conjuntura, a Política Externa Independente refletia um quadro internacional 16 favorável à obtenção de margens mais amplas de autonomia por parte das áreas periféricas — com a consolidação das independências na Ásia, o surto de 19 descolonização na África e o advento de novas posições (pan-africanismo, pan-arabismo, neutralismo, pacifismo) alicerçadas no conceito de Terceiro Mundo 22 — e, ante a acentuada radicalização interna, passou a ser alvo da máxima atenção dos grupos em choque. A. J. Barbosa. Parlamento, política externa e o golpe de 1964. In: E. C. de R. Martins (Org.). Relações internacionais: visões do Brasil e da América Latina. Brasília: IBRI, 2003, p. 251 e 254 (com adaptações) 
+
+QUESTÃO 37 Na conjuntura mundial de que trata o texto VI, uma das mais significativas manifestações de que um novo cenário nascia dos escombros da Segunda Guerra Mundial foi a emergência afro-asiática. Com efeito,  enquanto Moscou e Washington concebiam o mundo como condomínio a ser disputado por dois síndicos poderosos, consolidava-se o processo de afirmação nacional na Ásia e, na África, avançava o movimento anticolonial. T endo em vista esses acontecimentos, julgue (C ou E) os itens subseqüentes. 
+
+Considera-se o ano de 1947 a data simbólica do início da dissolução dos impérios coloniais: é a data da independência da Índia e de sua partilha entre hindus e muçulmanos, que resultou na criação do Paquistão.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+O processo de emancipação dos povos colonizados não seguiu um modelo-padrão, variou de região para região e foi contingenciado por fatores diversos, entre os quais, os métodos utilizados pelo colonizador e as condições internas de cada colônia.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Nas colônias ou nas metrópoles, não foram poucos os intelectuais que assumiram a luta emancipacionista. Nesse sentido, um exemplo se impõe: o de Jean-Paul Sartre, que se notabilizou como a grande voz da consciência européia contra o colonialismo.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Na Conferência de Bandung ( Indonésia, 1955), 29 países procuraram materializar o conceito de Terceiro Mundo, pronunciaram-se pelo neutralismo em face do sistema bipolar e comprometeram-se a apoiar a luta pela libertação dos povos ainda colonizados.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+QUESTÃO 38 Considerando a conjuntura apresentada no texto VI, verifica-se que, passados cerca de trinta anos, a realidade mundial era muito distinta da existente naqueles convulsionados anos 60. No que concerne ao novo quadro histórico que começou a ser consolidado na década de 80 do século XX, julgue (C ou E) os itens que se seguem. 
+
+Nos a nos 80, havia uma nítida convergência das posições do governo dos EUA e do governo do Reino Unido. Com efeito, a Era Reagan-Thatcher notabilizou-se pela ação moderada e tolerante na política externa e, sob a ótica da economia, por ter levado ao extremo a defesa do Estado de Bem-Estar Social.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Em uma economia que mais e mais aprofundava seu caráter global, a formação de blocos regionais e continentais passou a ser um a tendência, o que se justifica, entre outras motivações, pela necessidade de juntar forças para a atuação em um mercado acentuadamente competitivo.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Brasil e Argentina, quando governados, respectivamente, por José Sarney e Raúl Alfonsín, iniciaram um processo de aproximação cujo desdobramento foi a constituição do Mercado Comum do Sul (MERCOSUL), que incorporou dois outros sócios — Paraguai e Uruguai.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+Há consenso entre os especialistas para explicar as dificuldades aparentemente intransponíveis encontradas pela União Européia (UE) em seu esforço para se transformar em um bloco continental poderoso. Para esses observadores, a falha da UE consistiu em voltar-se exclusivamente para as questões econômicas, deixando de lado aspectos políticos, sociais e culturais.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
+
+
 
 ### HISTÓRIA DO BRASIL
 
