@@ -19,7 +19,7 @@
 
     <div>
 
-    <div class="spoiler" style="display: block;">
+    <div class="spoiler" style="display: hide;">
 
     Aqui você coloca o texto que quer esconder e que só vai aparecer quando clicarem no botão.
 
