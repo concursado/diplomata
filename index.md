@@ -29,11 +29,6 @@ Aqui o conteúdo que queremos ocultar
 
 ### GEOGRAFIA
 
-<div class="divspoiler">
-<img src="URL DA IMAGEM" onclick="if (this.parentNode.nextSibling.childNodes[0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; } else { this.parentNode.nextSibling.childNodes[0].style.display = 'none';}" />
-</div><div><div class="spoiler" style="display: none;">
-Aqui o conteúdo que queremos ocultar
-</div></div>
 
 ### DIREITO INTERNO
 
