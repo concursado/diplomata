@@ -15,6 +15,8 @@ TESTE
     <div class="spoiler" style="display: none;">
 
     Aqui você coloca o texto que quer esconder e que só vai aparecer quando clicarem no botão.
+    
+    </div>
 
   
 
