@@ -15,7 +15,7 @@
     
 <div class="pre-spoiler">
 
-    <input id="xs" value="Leia Mais" style="margin-left: 50px; padding: 0px; width: 80px; " onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';this.innerText = ''; this.value = 'Ocultar'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'hide'; this.value = 'Leia Mais';}" type="button"> </div>
+    <input id="xs" value="Leia Mais" style="margin-left: 50px; padding: 0px; width: 80px; " onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';this.innerText = ''; this.value = 'Ocultar'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'show'; this.value = 'Leia Mais';}" type="button"> </div>
 
     <div>
 
