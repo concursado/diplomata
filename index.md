@@ -16,9 +16,7 @@ TESTE
 
     Aqui você coloca o texto que quer esconder e que só vai aparecer quando clicarem no botão.
 
-    </div>
-
-    </div>
+  
 
 ### TESTE
 You can use the [editor on GitHub](https://github.com/concursado/diplomata/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
