@@ -4,11 +4,11 @@
 
 
 
-
-<input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes[0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style.display = 'none'; this.value = 'Mostrar'; }" />
+<div class="divspoiler"> 
+  <input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes[0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style.display = 'none'; this.value = 'Mostrar'; }" />
 </div><div><div class="spoiler" style="display: none;">
-Aqui o conteúdo que queremos ocultar
-</div></div>
+  Aqui o conteúdo que queremos ocultar
+ </div></div>
 
 
 
