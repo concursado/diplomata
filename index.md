@@ -3,7 +3,7 @@
 TESTE
 TESTE
 TESTE
-<div class="divspoiler"> 
+
 
  
  <div class="pre-spoiler">
@@ -20,7 +20,7 @@ TESTE
 
     </div>
     
-    <div class="divspoiler"> 
+
 
 ### TESTE
 
