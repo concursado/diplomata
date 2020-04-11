@@ -1,4 +1,29 @@
-## Welcome to GitHub Pages
+## PROVAS
+
+
+
+
+
+<div class="divspoiler">
+<input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes[0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style.display = 'none'; this.value = 'Mostrar'; }" />
+</div><div><div class="spoiler" style="display: none;">
+Aqui o conteúdo que queremos ocultar
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/concursado/diplomata/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
