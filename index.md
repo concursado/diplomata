@@ -18,12 +18,52 @@ Não podemos comparar o mundo do final do breve século XX ao mundo de seu iníc
 A partir da análise contida no texto acima, julgue os itens seguintes, relativos ao processo histórico do mundo contemporâneo. 
 
 Seguindo a trajetória ascensional da economia capitalista ao longo do século XIX, a Europa exerce incontrastável supremacia mundial quando do início do século XX. Ao comandar a expansão imperialista, especialmente em termos de neocolonialismo, as principais potências européias dividem o globo segundo seus interesses, muitas vezes justificando sua ação dominadora por meio de um construto ideológico — a missão civilizadora do branco europeu sobre povos e regiões considerados atrasados. 
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
 
-A Grande Guerra de 1914 resulta, entre tantos e múltiplos fatores, das disputas interimperialistas — notadamente aquelas que colocam frente a frente duas forças econômicas, a declinante Grã-Bretanha e a ascendente Alemanha — e do peso ponderável do nacionalismo, em particular daquele conduzido e manipulado pelos Estados. Quando o conflito chega ao fim, uma Europa em crise assiste à emergência mundial dos Estados Unidos da América (EUA) e à quase generalizada decadência dos regimes políticos liberais. 
+A Grande Guerra de 1914 resulta, entre tantos e múltiplos fatores, das disputas interimperialistas — notadamente aquelas que colocam frente a frente duas forças econômicas, a declinante Grã-Bretanha e a ascendente Alemanha — e do peso ponderável do nacionalismo, em particular daquele conduzido e manipulado pelos Estados. Quando o conflito chega ao fim, uma Europa em crise assiste à emergência mundial dos Estados Unidos da América (EUA) e à quase generalizada decadência dos regimes políticos liberais.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
 
 A contínua incorporação do conhecimento científico ao sistema produtivo contemporâneo, cujos passos iniciais foram dados ainda em meados do século XIX, quando o capitalismo mais e mais passava a ser controlado pelos capitais financeiros, adquire prodigiosa dimensão ao longo do século XX. A Era de Ouro da economia contemporânea, entre o pós-Segunda Guerra e o início da década de 70, amplia o processo de mundialização dos mercados, deixando para trás o que Hobsbawm chama de estágio de “economias nacionais” comandadas por Estados territoriais.
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+CERTO.
+ <br>
+ </div>
+ </div>
+ </div>
 
 O mundo que o século XX deixa para o XXI é, em linhas gerais, uma aldeia global, possível também pela acelerada revolução das comunicações e dos transportes. Nessa perspectiva, a globalização em marcha na atualidade corresponde a uma ruptura histórica com o capitalismo que a precedeu, tamanhas e fundas as diferenças entre o modelo econômico gestado pela Revolução Industrial e o praticado, em escala planetária, nos dias de hoje. 
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
+ <div style="display: none;">
+ERRADO.
+ <br>
+ </div>
+ </div>
+ </div>
 
 A “desintegração de velhos padrões de relacionamento social”, mencionada no texto e característica marcante do atual momento histórico, pode ser representada, entre outros possíveis aspectos, pela erosão das sociedades e religiões tradicionais, pelo fim da utopia pregada pelo socialismo real e pela exacerbação de um individualismo associal absoluto. 
 <div style="margin: 5px 20px 20px;">
@@ -31,11 +71,7 @@ A “desintegração de velhos padrões de relacionamento social”, mencionada 
  </div>
  <div class="alt2" style="border: 0px inset ; margin: 0px; padding: 0px;">
  <div style="display: none;">
-
-
 CERTO.
-
-
  <br>
  </div>
  </div>
