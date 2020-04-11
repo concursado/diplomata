@@ -4,14 +4,20 @@ TESTE
 ### TESTE
 TESTE
 
-<div class="divspoiler"> 
-  <div class="pre-spoiler">
-<input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes
-[0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; 
-this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style.display = 'none'; this.value = 'Mostrar'; }" />
-</div><div><div class="spoiler" style="display: none;">
-Aqui o conteúdo que queremos ocultar
-</div></div>
+<div style="margin: 5px 20px 20px;">
+ <div class="smallfont" style="margin-bottom: 2px;"><b>Spoiler</b>: <input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
+ </div>
+ <div class="alt2" style="border: 1px inset ; margin: 0px; padding: 6px;">
+ <div style="display: none;">
+
+
+Digite seu texto aqui.
+
+
+ <br>
+ </div>
+ </div>
+ </div>
 
 
 
