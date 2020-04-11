@@ -16,7 +16,7 @@ this.value = 'Ocultar'; } else { this.parentNode.nextSibling.childNodes[0].style
 'none'; this.value = 'Mostrar'; }" />
 </div><div><div class="spoiler" style="display: none;">
 Aqui o conteúdo que queremos ocultar
-</div></div>
+</div></div> <div class="pos-spoiler">
 
   
 
