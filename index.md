@@ -25,9 +25,7 @@ this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('
 
 <div class="spoiler" style="display: none;">
 
-    Aqui você coloca o texto que quer esconder e 
-
-que só vai aparecer quando clicarem no botão.
+    Aqui você coloca o texto que quer esconder e que só vai aparecer quando clicarem no botão.
 
     </div>
 
