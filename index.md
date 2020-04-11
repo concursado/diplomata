@@ -4,7 +4,7 @@ TESTE
 ### TESTE
 TESTE
 
-<div class="divspoiler"> <div class="pre-spoiler">
+<div class="pre-spoiler"> <div class="divspoiler"> 
 
 
 <input id="xs" value="Leia Mais" style="margin-left: 50px; 
