@@ -4,6 +4,7 @@ TESTE
 ### TESTE
 TESTE
 
+<div class="divspoiler">
 <input id="xs" value="Leia Mais" style="margin-left: 50px; 
 
 padding: 0px; width: 80px; " onclick="if (this.parentNode.parentNode.getElementsByTagName
