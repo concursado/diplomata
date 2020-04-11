@@ -49,13 +49,13 @@ A contínua incorporação do conhecimento científico ao sistema produtivo cont
  <div style="display: none;">
 CERTO.
   Era de Ouro (1945-1973)
-  - Segundo Eric Hobsbawm "Era de Ouro do Capitalismo" ou "Os anos Dourados" 
-  - "Anos Dourados", "Boom econômico pós-guerra"
-  - Internacionalização da hegemonia americana
-  - Reconstrução da Europa e do Japão, período da Guerra Fria, alta produção dos países desenvolvidos, Descolonização
-  - Doutrina Truman (empréstimos concedidos em dólares), Plano Marshall (empréstimos que a Europa recebia) e Plano Dodge (ajuda para o Japão)
-  - Países capitalistas tiveram um crescimento econômico muito grande, e que só foi percebido quando já estava acabando e o mundo entrava em uma nova crise. 
-   - Terminou com o colapso dos acordos de Bretton Woods em 1971, a crise do petróleo de 1973, e o “crash” da bolsa em 1973-1974, o que levou à recessão da década de 1970.
+  - Segundo Eric Hobsbawm "Era de Ouro do Capitalismo" ou "Os anos Dourados" <br />
+  - "Anos Dourados", "Boom econômico pós-guerra"<br />
+  - Internacionalização da hegemonia americana <br />
+  - Reconstrução da Europa e do Japão, período da Guerra Fria, alta produção dos países desenvolvidos, Descolonização<br />
+  - Doutrina Truman (empréstimos concedidos em dólares), Plano Marshall (empréstimos que a Europa recebia) e Plano Dodge (ajuda para o Japão)<br />
+  - Países capitalistas tiveram um crescimento econômico muito grande, e que só foi percebido quando já estava acabando e o mundo entrava em uma nova crise. <br />
+   - Terminou com o colapso dos acordos de Bretton Woods em 1971, a crise do petróleo de 1973, e o “crash” da bolsa em 1973-1974, o que levou à recessão da década de 1970.<br />
   - São os 30 anos do pós-guerra, que constituíram uma era única na História Contemporânea, século XX.
  <br>
  </div>
