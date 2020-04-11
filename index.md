@@ -19,7 +19,9 @@ this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('
 
 this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')
 
-[0].style.display = 'none'; this.value = 'Leia Mais';}" type="button"> </div>
+[0].style.display = 'none'; this.value = 'Leia Mais';}" type="button"> </div>   <div>
+
+ 
 
     Aqui você coloca o texto que quer esconder e que só vai aparecer quando clicarem no botão.
 </div></div>
