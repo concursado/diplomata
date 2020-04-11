@@ -4,7 +4,9 @@ TESTE
 ### TESTE
 TESTE
 
-<div class="divspoiler">
+<div class="divspoiler"> <div class="pre-spoiler">
+
+ 
 <input type="button" value="Mostrar" onclick="if (this.parentNode.nextSibling.childNodes
 
 [0].style.display != '') { this.parentNode.nextSibling.childNodes[0].style.display = ''; 
