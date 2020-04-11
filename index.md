@@ -18,6 +18,8 @@
     <input id="xs" value="Leia Mais" style="margin-left: 50px; padding: 0px; width: 80px; " onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';this.innerText = ''; this.value = 'Leia Mais'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.value = 'Ocultar';}" type="button"> </div>
 
     Esse é um teste.
+    
+<button onclick=""id="btnLeiaMais">Leia Mais</button>
 
 
 
