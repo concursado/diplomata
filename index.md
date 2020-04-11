@@ -4,10 +4,10 @@ TESTE
 ### TESTE
 TESTE
 
-<div style="margin: 5px 20px 20px;">
+
  <div class="smallfont" style="margin-bottom: 2px;"><b>Spoiler</b>: <input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
  </div>
- 
+ <div class="alt2" style="border: 1px inset ; margin: 0px; padding: 6px;">
  <div style="display: none;">
 
 
