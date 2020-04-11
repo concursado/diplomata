@@ -81,7 +81,7 @@ CEBRASPE 2003. O curso das duas décadas que vinculam o ano de 1947 ao de 1968, 
 
 Tendo o texto apresentado como referência inicial e considerando as relações internacionais do pós-1945, julgue os itens a seguir. 
 
-1. À medida que os acontecimentos da Segunda Guerra apontavam para o término do conflito, com a derrocada militar das forças do eixo nazi-fascista, delineavam-se os contornos do novo sistema de poder mundial que doravante vigoraria, algo cada vez mais presente nas reuniões de cúpula dos aliados, a exemplo do ocorrido em Teerã, em novembro de 1943, Yalta, em fevereiro de 1945, e Potsdam, em julho de 1945.
+1 À medida que os acontecimentos da Segunda Guerra apontavam para o término do conflito, com a derrocada militar das forças do eixo nazi-fascista, delineavam-se os contornos do novo sistema de poder mundial que doravante vigoraria, algo cada vez mais presente nas reuniões de cúpula dos aliados, a exemplo do ocorrido em Teerã, em novembro de 1943, Yalta, em fevereiro de 1945, e Potsdam, em julho de 1945.
 <div style="margin: 5px 20px 20px;">
  <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
  </div>
@@ -93,7 +93,7 @@ CERTO.
  </div>
  </div>
 
-2. A mesma linha idealista que presidiu a criação da Liga das Nações após a Grande Guerra de 1914, guardadas as naturais singularidades de um outro momento histórico, está presente na Conferência de São Francisco (1945), da qual surgiu a Organização das Nações Unidas (ONU). A existência de uma Assembléia Geral com poder deliberativo, em que todos os Estados se igualam no direito à voz e ao voto, e de um Conselho de Segurança com razoável simetria entre seus membros, reforça o clima de concórdia que, pouco mais de duas décadas antes, embalara os 14 pontos do presidente Wilson.
+2 A mesma linha idealista que presidiu a criação da Liga das Nações após a Grande Guerra de 1914, guardadas as naturais singularidades de um outro momento histórico, está presente na Conferência de São Francisco (1945), da qual surgiu a Organização das Nações Unidas (ONU). A existência de uma Assembléia Geral com poder deliberativo, em que todos os Estados se igualam no direito à voz e ao voto, e de um Conselho de Segurança com razoável simetria entre seus membros, reforça o clima de concórdia que, pouco mais de duas décadas antes, embalara os 14 pontos do presidente Wilson.
 <div style="margin: 5px 20px 20px;">
  <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
  </div>
@@ -105,7 +105,7 @@ ERRADO.
  </div>
  </div>
 
-3. A bipolaridade do pós-Segunda Guerra, também conhecida como o período da Guerra Fria, apresenta, entre outras, uma singularidade em relação a sistemas de poder mundial que a antecederam. Além de evidenciar uma situação de confronto entre duas superpotências situadas fora do tradicional eixo de poder europeu, a URSS e os EUA, também serviu — pelo menos em termos retóricos — ao embate travado entre dois sistemas distintos, o capitalista e o socialista.
+3 A bipolaridade do pós-Segunda Guerra, também conhecida como o período da Guerra Fria, apresenta, entre outras, uma singularidade em relação a sistemas de poder mundial que a antecederam. Além de evidenciar uma situação de confronto entre duas superpotências situadas fora do tradicional eixo de poder europeu, a URSS e os EUA, também serviu — pelo menos em termos retóricos — ao embate travado entre dois sistemas distintos, o capitalista e o socialista.
 <div style="margin: 5px 20px 20px;">
  <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
  </div>
@@ -117,7 +117,7 @@ CERTO.
  </div>
  </div>
 
-4. No período correspondente à coexistência pacífica, tal como concebido pelo texto, a crise dos mísseis — como ficou conhecido o episódio de instalação desses artefatos pela URSS em Cuba, descoberto pelos EUA, que reagiram vigorosamente — acirrou o quadro de confronto entre as duas superpotências e foi visto por muitos como causa de um iminente e aterrador embate nuclear, que não se concretizou. O estratégico recuo de Kennedy, ante a firme decisão de Krushev de não retirar os mísseis, pôs fim ao contencioso.
+4 No período correspondente à coexistência pacífica, tal como concebido pelo texto, a crise dos mísseis — como ficou conhecido o episódio de instalação desses artefatos pela URSS em Cuba, descoberto pelos EUA, que reagiram vigorosamente — acirrou o quadro de confronto entre as duas superpotências e foi visto por muitos como causa de um iminente e aterrador embate nuclear, que não se concretizou. O estratégico recuo de Kennedy, ante a firme decisão de Krushev de não retirar os mísseis, pôs fim ao contencioso.
 <div style="margin: 5px 20px 20px;">
  <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
  </div>
@@ -129,7 +129,7 @@ ERRADO.
  </div>
  </div>
 
-5. A expressão “assenhoraram-se dos espaços”, utilizada pelo autor para definir o comportamento das superpotências que construíram um “sistema condominial de poder”, também pode ser entendida em sentido ainda mais literal. Trata-se da corrida espacial empreendida por ambas, que, além de refletir o evidente avanço tecnológico da época, servia aos propósitos de dominação global que as impulsionava.
+5 A expressão “assenhoraram-se dos espaços”, utilizada pelo autor para definir o comportamento das superpotências que construíram um “sistema condominial de poder”, também pode ser entendida em sentido ainda mais literal. Trata-se da corrida espacial empreendida por ambas, que, além de refletir o evidente avanço tecnológico da época, servia aos propósitos de dominação global que as impulsionava.
 <div style="margin: 5px 20px 20px;">
  <div class="smallfont" style="margin-bottom: 2px;"><input value="Open" style="margin: 0px; padding: 0px; width: 55px; font-size: 11px;" onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = ''; this.innerText = ''; this.value = 'Close'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerText = ''; this.value = 'Open'; }" type="button">
  </div>
